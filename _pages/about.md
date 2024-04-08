@@ -26,5 +26,5 @@ Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent stud
 <div align="center">
     <img src="/images/mechaxcover1.png" alt="p1" width="100%" style="max-width: 400px;">
 </div>
-
+You can see more designs from the website of one of my most talented students [Jiajian Fu](https://jiajianfu.github.io/). 
 
