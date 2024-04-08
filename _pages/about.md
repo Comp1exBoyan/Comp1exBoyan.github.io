@@ -40,6 +40,7 @@ My work included designing the autonomous driving control system and learning fr
     <img src="/images/t1.png" alt="robot2" width="40%" style="margin-right: 0px;">
 </div>
 I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. The final performance [vehicle](https://www.youtube.com/watch?v=NyEcdiJmOZI). 
+
 Access the papers [MPC](https://ieeexplore.ieee.org/abstract/document/10327667), [Nonlinear](https://ieeexplore.ieee.org/abstract/document/10218838).
 
 ### Learning from Demonstration(LfD)
@@ -48,5 +49,5 @@ I also completed the operation of a robotic arm through demonstration learning, 
     <img src="/images/ex2.png" alt="robot1" width="60%" style="margin-right: 0px;">
     <img src="/images/plat.png" alt="robot2" width="35%" style="margin-right: 0px;">
 </div>
-
+The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 
