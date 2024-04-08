@@ -21,8 +21,8 @@ My story with robot started from a global competition [Robomaster](https://www.y
 We formed teams according to the competition rules and completed task assignments. Team members designed mechanical structures, hardware circuits, and software algorithms.
 The following pictures are my design during 2016-2018.
 <div align="center">
-    <img src="/images/robot1.png" alt="robot1" width="350" style="margin-right: 30px;">
-    <img src="/images/robot2.png" alt="robot2" width="350" style="margin-right: 30px;">
+    <img src="/images/robot1.png" alt="robot1" width="350" style="margin-right: 20px;">
+    <img src="/images/robot2.png" alt="robot2" width="350" style="margin-right: 20px;">
     <img src="/images/PCB.png"   alt="PCB" width="350">
 </div>
 Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent students to complete a series of excellent projects.
