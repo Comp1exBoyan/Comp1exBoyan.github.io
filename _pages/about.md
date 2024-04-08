@@ -31,7 +31,7 @@ Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent stud
 </div>
 You can see more designs from the website of one of my most talented students [Jiajian Fu](https://jiajianfu.github.io/). 
 
-## Research
+## Publications
 From 2020-2023, I served as a master student of UCAS and also an engineer in [SIAT-robot](https://english.siat.ac.cn/SI2017/IAIT2017/RC1/CIB/). 
 My work included designing the autonomous driving control system and learning from demonstration for robotic arm. 
 ### Autonomous Driving
@@ -51,3 +51,5 @@ I also completed the operation of a robotic arm through demonstration learning, 
 </div>
 The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 
+### Whole Body Control 
+I am currently working on whole-body control of robots and am looking forward to exciting results in the coming years.
