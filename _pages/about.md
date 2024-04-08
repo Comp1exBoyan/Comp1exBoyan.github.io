@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yifeng Tang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a first year PhD student of Centre for Robotics and AI, the University of Manchester (UoM)(https://www.robotics.manchester.ac.uk/), and I am also a Doctoral Candidates of the EU Marie Sklodowska-Curie Action (MSCA) Doctoral Network (DN), RAICAM (www.raicam.eu; https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks). My research interests include robotics, whole body control, motion planning and mechanical and electronic design.
+
+I am under the supervision of Dr. Simon Watson(https://research.manchester.ac.uk/en/persons/simon.watson) and Dr. Bruno Adorno(https://personalpages.manchester.ac.uk/staff/Bruno.Adorno/default.htm). 
+
+Contact: [Email]yifeng.tang@postgrad.manchester.ac.uk [Github]https://github.com/Comp1exBoyan
 
 A data-driven personal website
 ======
