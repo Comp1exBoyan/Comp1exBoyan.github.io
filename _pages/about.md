@@ -18,7 +18,7 @@ You can access my publications via [Yifeng Tang`s Google Scholar](https://schola
 
 ## Robots 
 My story with robot started from a global competition [Robomaster](https://www.youtube.com/watch?v=Z2FR5xpIVeo). The following two pictures are my design during 2017-2018.
-<div align="left">
+<div align="center">
     <img src="/images/robot1.png" alt="robot1" width="350" style="margin-right: 30px;">
     <img src="/images/robot2.png" alt="robot2" width="350">
 </div>
