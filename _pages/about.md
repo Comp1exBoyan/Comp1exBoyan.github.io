@@ -14,8 +14,18 @@ I am under the supervision of Dr. [Simon Watson](https://research.manchester.ac.
 I recevied my bachelor's and master's degree from Chongqing University(CQU) in 2020 and Univeristy of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
 You can find my cv here [Yifeng's Curriculum Vitae](../files/Yifeng Tang-cv.pdf).
 
+You can access my publications via [Yifeng Tang`s Google Scholar](https://scholar.google.com/citations?user=9V3txQ0AAAAJ&hl=en).
+
 ## Robots 
+My story with robot started from a global competition [Robomaster](https://www.youtube.com/watch?v=Z2FR5xpIVeo). The following two pictures are my design during 2017-2018.
 <div align="left">
     <img src="/images/robot1.png" alt="robot1" width="350" style="margin-right: 30px;">
     <img src="/images/robot2.png" alt="robot2" width="350">
 </div>
+Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent students to complete a series of excellent projects.
+<div align="center">
+    <img src="/images/mechaxcover1.png" alt="p1" width="50%" style="max-width: 400px;">
+    <img src="/images/mechaxcover2.png" alt="p2" width="50%" style="max-width: 400px;">
+</div>
+
+
