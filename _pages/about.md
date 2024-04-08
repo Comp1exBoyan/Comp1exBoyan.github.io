@@ -24,8 +24,7 @@ My story with robot started from a global competition [Robomaster](https://www.y
 </div>
 Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent students to complete a series of excellent projects.
 <div align="center">
-    <img src="/images/mechaxcover1.png" alt="p1" width="50%" style="max-width: 400px;">
-    <img src="/images/mechaxcover2.png" alt="p2" width="50%" style="max-width: 400px;">
+    <img src="/images/mechaxcover1.png" alt="p1" width="90%" style="max-width: 400px;">
 </div>
 
 
