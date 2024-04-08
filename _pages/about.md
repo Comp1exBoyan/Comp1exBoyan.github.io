@@ -16,6 +16,6 @@ You can find my cv here [Yifeng's Curriculum Vitae](../files/Yifeng Tang-cv.pdf)
 
 ## Robots 
 <div align="left">
-    <img src="/images/robot1.png" alt="robot1" width="400" style="margin-right: 30px;">
-    <img src="/images/robot2.png" alt="robot2" width="400">
+    <img src="/images/robot1.png" alt="robot1" width="350" style="margin-right: 30px;">
+    <img src="/images/robot2.png" alt="robot2" width="350">
 </div>
