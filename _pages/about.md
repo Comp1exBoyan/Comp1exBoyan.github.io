@@ -34,4 +34,8 @@ You can see more designs from the website of one of my most talented students [J
 ## Research
 From 2020-2023, I served as a master student of UCAS and also an engineer in [SIAT-robot](https://english.siat.ac.cn/SI2017/IAIT2017/RC1/CIB/). 
 My work included designing the autonomous driving control system and learning from demonstration for robotic arm. 
+<div align="center">
+    <img src="/images/real.png" alt="robot1" width="45%" style="margin-right: 20px;">
+    <img src="/images/t1.png" alt="robot2" width="45%" style="margin-right: 0px;">
+</div>
 
