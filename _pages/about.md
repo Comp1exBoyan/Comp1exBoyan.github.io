@@ -34,8 +34,14 @@ You can see more designs from the website of one of my most talented students [J
 ## Research
 From 2020-2023, I served as a master student of UCAS and also an engineer in [SIAT-robot](https://english.siat.ac.cn/SI2017/IAIT2017/RC1/CIB/). 
 My work included designing the autonomous driving control system and learning from demonstration for robotic arm. 
+### Autonomous Driving
 <div align="center">
     <img src="/images/real.png" alt="robot1" width="50%" style="margin-right: 20px;">
     <img src="/images/t1.png" alt="robot2" width="40%" style="margin-right: 0px;">
 </div>
+I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. The final performance [vehicle](https://www.youtube.com/watch?v=NyEcdiJmOZI). 
+Access the papers [MPC](https://ieeexplore.ieee.org/abstract/document/10327667), [Nonlinear](https://ieeexplore.ieee.org/abstract/document/10218838).
+
+### Learning from Demonstration(LfD)
+
 
