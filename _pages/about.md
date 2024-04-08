@@ -26,9 +26,10 @@ The following pictures are my design during 2016-2018.
     <img src="/images/PCB.png"   alt="PCB" width="30%">
 </div>
 Then, from 2019 to 2022, I served as the team's advisor, guiding subsequent students to complete a series of excellent projects.
-<div align="center">
+<!-- <div align="center">
     <img src="/images/mechaxcover1.png" alt="p1" width="95%" style="max-width: 400px;">
-</div>
+</div> -->
+<img src="/images/mechaxcover1.png" alt="p1">
 You can see more designs from the website of one of my most talented students [Jiajian Fu](https://jiajianfu.github.io/). 
 
 ## Publications
