@@ -14,8 +14,8 @@ I am under the supervision of Dr. [Simon Watson](https://research.manchester.ac.
 I recevied my bachelor's and master's degree from Chongqing University(CQU) in 2020 and Univeristy of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
 You can find my cv here [Yifeng's Curriculum Vitae](../files/Yifeng Tang-cv.pdf).
 
-## Some robot 
+## Robots 
 <div align="left">
-    <img src="/images/robot1.png" alt="robot1" width="300">
-    <img src="/images/robot2.png" alt="robot2" width="300">
+    <img src="/images/robot1.png" alt="robot1" width="450" style="margin-right: 10px;">
+    <img src="/images/robot2.png" alt="robot2" width="450">
 </div>
