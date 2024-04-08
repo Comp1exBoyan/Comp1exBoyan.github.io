@@ -46,7 +46,7 @@ Access the papers [MPC](https://ieeexplore.ieee.org/abstract/document/10327667),
 I also completed the operation of a robotic arm through demonstration learning, where I was mainly responsible for designing and deriving the control laws. In this article, we presented, for the first time, a stability proof considering force-position information and validated it on a real machine.
 <div align="center">
     <img src="/images/ex2.png" alt="robot1" width="60%" style="margin-right: 0px;">
-    <img src="/images/plat.png" alt="robot2" width="40%" style="margin-right: 0px;">
+    <img src="/images/plat.png" alt="robot2" width="35%" style="margin-right: 0px;">
 </div>
 
 
