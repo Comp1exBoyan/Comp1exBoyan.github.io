@@ -16,3 +16,8 @@ You can find my cv here [Yifeng's Curriculum Vitae](../files/Yifeng Tang-cv.pdf)
 
 ## Some robot 
 <br/><img src='/images/500x300.png'>
+<div align="center">
+    <img src="图片链接1" alt="图片1" width="300">
+    <img src="图片链接2" alt="图片2" width="300">
+    <img src="图片链接3" alt="图片3" width="300">
+</div>
