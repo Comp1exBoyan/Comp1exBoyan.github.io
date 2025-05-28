@@ -84,5 +84,5 @@ Furthermore, I hope to maintain an active connection with this project when I be
 <div align="center">
     <img src="/images/ai_gen.gif" alt="robot1" width="35%" style="margin-right: 0px;">
     <img src="/images/res.png" alt="robot1" width="35%" style="margin-right: 0px;">
-  
 </div>
+These two pcitures show that LLM is generating experiment processes and VLM for robotic manipulation. 
