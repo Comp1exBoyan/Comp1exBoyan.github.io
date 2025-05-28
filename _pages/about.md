@@ -81,3 +81,8 @@ In legged robots, the stance (support) leg and swing leg inherently exhibit a ga
 
 Before starting my new PhD program, I will be working at the Chinese Academy of Sciences on AI-driven robotic systems for chemical and materials experiments. I will lead the development of a robotic platform that integrates large language models (LLMs) with vision-language models (VLMs).
 Furthermore, I hope to maintain an active connection with this project when I begin my new PhD program.
+<div align="center">
+    <img src="/images/ai_gen.gif" alt="robot1" width="35%" style="margin-right: 0px;">
+    <img src="/images/res.png" alt="robot1" width="35%" style="margin-right: 0px;">
+  
+</div>
