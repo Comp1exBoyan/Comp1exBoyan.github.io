@@ -30,7 +30,7 @@ Then, from 2019 to 2022, I served as the team's supervisor, guiding subsequent s
 <img src="/images/mechaxcover1.png" alt="p1">
 You can see more designs from the website of one of my most talented students, [Jiajian Fu](https://jiajianfu.github.io/). 
 
-## Publications
+## Projects and publications
 From 2020-2023, I served as a master student of UCAS and also an engineer in [SIAT-robot](https://english.siat.ac.cn/SI2017/IAIT2017/RC1/CIB/). 
 My work included designing the autonomous driving control system and learning from demonstration for robotic arm. 
 ### Autonomous Driving
@@ -50,5 +50,12 @@ I also completed the operation of a robotic arm through demonstration learning, 
 </div>
 The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 
-### Game-theoretic RL controller for 
-During the first year of my PhD, I also finished a Game-theoretic RL controller for legged robot locomotion. 
+### Game-theoretic RL controller for legged robot locomotion. 
+In legged robots, the stance (support) leg and swing leg inherently exhibit a game-theoretic relationship in their influence on the overall system behavior. To address this, I designed a game-theoretic reward structure, treating the stance and swing legs as independent yet coupled agents. This framework was employed to train the control policies of both legs, and I provided a theoretical proof for the existence of a Nash equilibrium within this setup. The associated software implementation was jointly developed in collaboration with my research partner, Dr. D.C., from the FORTH Institute in Greece.
+
+<div align="center">
+    <img src="/images/ex2.png" alt="robot1" width="60%" style="margin-right: 0px;">
+    <img src="/images/plat.png" alt="robot2" width="35%" style="margin-right: 0px;">
+</div>
+
+
