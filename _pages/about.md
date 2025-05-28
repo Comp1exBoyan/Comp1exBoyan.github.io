@@ -9,7 +9,7 @@ redirect_from:
 ## Biography 
 I am currently a second year PhD student of [Centre for Robotics and AI]((https://www.robotics.manchester.ac.uk/)), the University of Manchester (UoM), and I am also a Doctoral Candidates of the EU Marie Sklodowska-Curie Action (MSCA) Doctoral Network (DN) [MSCA-DN](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), [RAICAM](www.raicam.eu). My research interests include robot learning, robotic manipulation, and reinforcement learning.
 
-I decided to quit this PhD program and seek a new PhD position in dual-arm manipulation using learning-based methods. I am now the assitant researcher in Chinese Academy of Sciences. 
+I decided to quit this PhD program and seek a new PhD position in robotic manipulation using learning-based methods. I am now the assistant researcher in Chinese Academy of Sciences. 
 
 
 I received my bachelor's and master's degrees from Chongqing University(CQU) in 2020 and the University of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
