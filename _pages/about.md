@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 ## Biography 
-I am currently a second year PhD student of [Centre for Robotics and AI]((https://www.robotics.manchester.ac.uk/)), the University of Manchester (UoM), and I am also a Doctoral Candidates of the EU Marie Sklodowska-Curie Action (MSCA) Doctoral Network (DN) [MSCA-DN](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), [RAICAM](www.raicam.eu). My research interests include robot learning, robotic manipulation and reinforcement learning.
+I am currently a second year PhD student of [Centre for Robotics and AI]((https://www.robotics.manchester.ac.uk/)), the University of Manchester (UoM), and I am also a Doctoral Candidates of the EU Marie Sklodowska-Curie Action (MSCA) Doctoral Network (DN) [MSCA-DN](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), [RAICAM](www.raicam.eu). My research interests include robot learning, robotic manipulation, and reinforcement learning.
+
+I decided to quit this PhD program and seek a new PhD position in dual-arm manipulation using learning-based methods. I am now the assitant researcher in Chinese Academy of Sciences. 
 
 
-I recevied my bachelor's and master's degree from Chongqing University(CQU) in 2020 and Univeristy of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
+I received my bachelor's and master's degrees from Chongqing University(CQU) in 2020 and the University of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
 
 You can access my publications via [Yifeng Tang`s Google Scholar](https://scholar.google.com/citations?user=9V3txQ0AAAAJ&hl=en).
 
 ## Robots 
-My story with robot started from a global competition [Robomaster](https://www.youtube.com/watch?v=Z2FR5xpIVeo). 
+My story with robots started from a global competition [Robomaster](https://www.youtube.com/watch?v=Z2FR5xpIVeo). 
 We formed teams according to the competition rules and completed task assignments. Team members designed mechanical structures, hardware circuits, and software algorithms.
 The following pictures are my design during 2016-2018.
 <div align="center">
@@ -38,7 +40,7 @@ You can see more designs from the website of one of my most talented students, [
 
 ## Projects and publications
 From 2020-2023, I served as a master student of UCAS and also an engineer in [SIAT-robot](https://english.siat.ac.cn/SI2017/IAIT2017/RC1/CIB/). 
-My work included designing the autonomous driving control system and learning from demonstration for robotic arm. 
+My work included designing the autonomous driving control system and learning from demonstration for the robotic arm. 
 ### Autonomous Driving
 <div align="center">
     <img src="/images/real.png" alt="robot1" width="50%" style="margin-right: 20px;">
@@ -75,3 +77,7 @@ In legged robots, the stance (support) leg and swing leg inherently exhibit a ga
   
 </div>
 
+### AI Robot for Science
+
+Before starting my new PhD program, I will be working at the Chinese Academy of Sciences on AI-driven robotic systems for chemical and materials experiments. I will lead the development of a robotic platform that integrates large language models (LLMs) with vision-language models (VLMs).
+Furthermore, I hope to maintain an active connection with this project when I begin my new PhD program.
