@@ -39,6 +39,11 @@ My work included designing the autonomous driving control system and learning fr
     <img src="/images/t1.png" alt="robot2" width="40%" style="margin-right: 0px;">
 </div>
 I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. The final performance [vehicle](https://www.youtube.com/watch?v=NyEcdiJmOZI). 
+<div align="center">
+    <img src="/images/ad_1.gif" alt="robot1" width="30%" style="margin-right: 0px;">
+    <img src="/images/ad_2.gif" alt="robot2" width="30%" style="margin-right: 0px;">
+    <img src="/images/ad_3.gif" alt="robot2" width="30%" style="margin-right: 0px;">
+</div>
 
 Access the papers [MPC](https://ieeexplore.ieee.org/abstract/document/10327667), [Nonlinear](https://ieeexplore.ieee.org/abstract/document/10218838).
 
@@ -54,8 +59,7 @@ The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 In legged robots, the stance (support) leg and swing leg inherently exhibit a game-theoretic relationship in their influence on the overall system behavior. To address this, I designed a game-theoretic reward structure, treating the stance and swing legs as independent yet coupled agents. This framework was employed to train the control policies of both legs, and I provided a theoretical proof for the existence of a Nash equilibrium within this setup. The associated software implementation was jointly developed in collaboration with my research partner, Dr. D.C., from the FORTH Institute in Greece.
 
 <div align="center">
-    <img src="/images/barkour_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">
-    <img src="/images/go2_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">
+    <img src="/images/barkour_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">    <img src="/images/go2_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">
   
 </div>
 
