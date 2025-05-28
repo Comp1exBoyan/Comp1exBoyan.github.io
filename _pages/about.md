@@ -33,7 +33,7 @@ Then, from 2019 to 2022, I served as the team's supervisor, guiding subsequent s
 
 <div align="center">
     <img src="/images/all.gif" alt="robot1" width="30%" style="margin-right: 0px;">
-    <img src="/images/ser_1.gif" alt="robot2" width="30%" style="margin-right: 0px;">
+<!--     <img src="/images/ser_1.gif" alt="robot2" width="30%" style="margin-right: 0px;"> -->
 </div>
 
 You can see more designs from the website of one of my most talented students, [Jiajian Fu](https://jiajianfu.github.io/). 
@@ -49,7 +49,7 @@ My work included designing the autonomous driving control system and learning fr
 I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. 
 <div align="center">
     <img src="/images/nav.gif" alt="robot1" width="30%" style="margin-right: 0px;">
-    <img src="/images/ad_2.gif" alt="robot2" width="30%" style="margin-right: 0px;">
+<!--     <img src="/images/ad_2.gif" alt="robot2" width="30%" style="margin-right: 0px;"> -->
     <img src="/images/turn.gif" alt="robot2" width="30%" style="margin-right: 0px;">
 </div>
 
