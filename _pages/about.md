@@ -54,7 +54,11 @@ The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 In legged robots, the stance (support) leg and swing leg inherently exhibit a game-theoretic relationship in their influence on the overall system behavior. To address this, I designed a game-theoretic reward structure, treating the stance and swing legs as independent yet coupled agents. This framework was employed to train the control policies of both legs, and I provided a theoretical proof for the existence of a Nash equilibrium within this setup. The associated software implementation was jointly developed in collaboration with my research partner, Dr. D.C., from the FORTH Institute in Greece.
 
 <div align="center">
-    <img src="/images/real_go2.gif" alt="robot1" width="60%" style="margin-right: 0px;">
+    <img src="/images/barkour_n.gif" alt="robot1" width="30%" style="margin-right: 0px;">
+    <img src="/images/go2_n.gif" alt="robot1" width="30%" style="margin-right: 0px;">
+    <img src="/images/humanoid_n.gif" alt="robot1" width="30%" style="margin-right: 0px;">
+    <img src="/images/real_go2.gif" alt="robot1" width="20%" style="margin-right: 0px;">
+  
 </div>
 
 
