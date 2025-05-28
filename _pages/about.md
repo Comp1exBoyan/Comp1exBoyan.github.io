@@ -38,7 +38,7 @@ My work included designing the autonomous driving control system and learning fr
     <img src="/images/real.png" alt="robot1" width="50%" style="margin-right: 20px;">
     <img src="/images/t1.png" alt="robot2" width="40%" style="margin-right: 0px;">
 </div>
-I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. The final performance [vehicle](https://www.youtube.com/watch?v=NyEcdiJmOZI). 
+I developed the control and local planning software module using C++. I designed two control algorithms: one is model predictive control, and the other is nonlinear control. I primarily devoted my time and effort to engineering tasks in this project. 
 <div align="center">
     <img src="/images/ad_1.gif" alt="robot1" width="30%" style="margin-right: 0px;">
     <img src="/images/ad_2.gif" alt="robot2" width="30%" style="margin-right: 0px;">
