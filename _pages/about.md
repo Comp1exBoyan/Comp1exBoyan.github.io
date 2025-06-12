@@ -9,9 +9,6 @@ redirect_from:
 ## Biography 
 I am currently a second year PhD student of [Centre for Robotics and AI]((https://www.robotics.manchester.ac.uk/)), the University of Manchester (UoM), and I am also a Doctoral Candidates of the EU Marie Sklodowska-Curie Action (MSCA) Doctoral Network (DN) [MSCA-DN](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks), [RAICAM](www.raicam.eu). My research interests include robot learning, robotic manipulation, and reinforcement learning.
 
-I decided to quit this PhD program and seek a new PhD position in robotic manipulation using learning-based methods. I am now the assistant researcher in Chinese Academy of Sciences. 
-
-
 I received my bachelor's and master's degrees from Chongqing University(CQU) in 2020 and the University of Chinese Academy of Sciences(UCAS) in 2023, both in Control Science and Engineering. 
 
 You can access my publications via [Yifeng Tang`s Google Scholar](https://scholar.google.com/citations?user=9V3txQ0AAAAJ&hl=en).
@@ -64,7 +61,7 @@ I also completed the operation of a robotic arm through demonstration learning, 
 The paper [TIE](https://ieeexplore.ieee.org/abstract/document/10373993).
 
 ### Game-theoretic RL controller for legged robot locomotion. 
-In legged robots, the stance (support) leg and swing leg inherently exhibit a game-theoretic relationship in their influence on the overall system behavior. To address this, I designed a game-theoretic reward structure, treating the stance and swing legs as independent yet coupled agents. This framework was employed to train the control policies of both legs, and I provided a theoretical proof for the existence of a Nash equilibrium within this setup. The associated software implementation was jointly developed in collaboration with my research partner, Dr. D.C., from the FORTH Institute in Greece.
+In legged robots, the stance (support) leg and swing leg inherently exhibit a game-theoretic relationship in their influence on the overall system behavior. To address this, I designed a game-theoretic reward structure, treating the stance and swing legs as independent yet coupled agents. This framework was employed to train the control policies of both legs, and I provided a theoretical proof for the existence of a Nash equilibrium within this setup. The associated software implementation was jointly developed in collaboration with my research partner, D.C., from the FORTH Institute in Greece.
 
 <div align="center">
     <img src="/images/barkour_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">    <img src="/images/go2_n.gif" alt="robot1" width="35%" style="margin-right: 0px;">
@@ -79,7 +76,7 @@ In legged robots, the stance (support) leg and swing leg inherently exhibit a ga
 
 ### AI Robot for Science
 
-Before starting my new PhD program, I will be working at the Chinese Academy of Sciences on AI-driven robotic systems for chemical and materials experiments. I will lead the development of a robotic platform that integrates large language models (LLMs) with vision-language models (VLMs).
+I am also working at the Chinese Academy of Sciences on AI-driven robotic systems for chemical and materials experiments. I will lead the development of a robotic platform that integrates large language models (LLMs) with vision-language models (VLMs).
 Furthermore, I hope to maintain an active connection with this project when I begin my new PhD program.
 <div align="center">
     <img src="/images/ai_gen.gif" alt="robot1" width="35%" style="margin-right: 0px;">
