@@ -73,13 +73,3 @@ In legged robots, the stance (support) leg and swing leg inherently exhibit a ga
     <img src="/images/real_go2.gif" alt="robot1" width="35%" style="margin-right: 0px;">
   
 </div>
-
-### AI Robot for Science
-
-I am also working at the Chinese Academy of Sciences on AI-driven robotic systems for chemical and materials experiments. I will lead the development of a robotic platform that integrates large language models (LLMs) with vision-language models (VLMs).
-Furthermore, I hope to maintain an active connection with this project when I begin my new PhD program.
-<div align="center">
-    <img src="/images/ai_gen.gif" alt="robot1" width="35%" style="margin-right: 0px;">
-    <img src="/images/res.png" alt="robot1" width="35%" style="margin-right: 0px;">
-</div>
-These two pcitures show that LLM is generating experiment processes and VLM for robotic manipulation. 
